@@ -1,0 +1,22 @@
+.Container {
+  margin: 30px auto;
+  padding: 10px;
+  max-width: 320px;
+
+  // background-image: linear-gradient(
+  //   120deg,
+  //   rgba(45, 237, 125, 0.6) 0%,
+  //   rgba(57, 133, 168, 0.6) 100%
+  // );
+
+  background-image: linear-gradient(
+    120deg,
+    rgba(46, 236, 132, 0.6) 0%,
+    rgba(217, 237, 247, 0.6) 100%
+  );
+
+  border: 1px solid rgb(57, 133, 168);
+  border-radius: 8px;
+
+  box-shadow: 7px 7px 13px 0px rgba(0, 0, 0, 0.38);
+}
